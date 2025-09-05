@@ -15,7 +15,6 @@ Este projeto foi criado para treinar CSS e JavaScript, e aplicar conceitos de DO
 
 ## 🛠 Tecnologias Utilizadas
 
-- HTML
 - CSS
 - JavaScript
 
