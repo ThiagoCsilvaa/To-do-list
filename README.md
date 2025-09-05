@@ -11,7 +11,7 @@ Um gerenciador de tarefas simples, feito para praticar e organizar tarefas do di
 
 ## 💡 Objetivo do Projeto
 
-Este projeto foi criado para treinar HTML, CSS e JavaScript, e aplicar conceitos de DOM e armazenamento local.
+Este projeto foi criado para treinar CSS e JavaScript, e aplicar conceitos de DOM e armazenamento local.
 
 ## 🛠 Tecnologias Utilizadas
 
